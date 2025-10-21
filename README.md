@@ -1,18 +1,19 @@
-🚀 Java-DSA
+# 🚀 Java-DSA
 
 This repository is created to practice Data Structures and Algorithms (DSA) in Java.
 It includes basic problems, pattern printing, and fundamental data structure implementations.
 
-📂 Contents
+## 📂 Contents
 
-🧩 src/ — Java source code files for different DSA topics.
+- 🧩 src/ — Java source code files for different DSA topics.
+- 🛑 .gitignore — Files and folders ignored by Git.
+- ⚙️ .idea/ — IntelliJ IDEA project configuration files.
 
-🛑 .gitignore — Files and folders ignored by Git.
+## 💡 Topics Covered (Planned / Implemented)
 
-⚙️ .idea/ — IntelliJ IDEA project configuration files.
+### 📁 Project Structure
 
-💡 Topics Covered (Planned / Implemented)
-📁 Project Structure
+```
 📦 Java-DSA
 │
 ├── 📘 ProblemsOnLoops
@@ -23,63 +24,59 @@ It includes basic problems, pattern printing, and fundamental data structure imp
 ├── 🔠 AlphabetPattern.java
 │
 └── 📗 BasicDataStructures
-└── 📊 Arrays.java
+    └── 📊 Arrays.java
+```
 
-🧠 Topics
-🔹 Problems on Loops
+### 🧠 Topics
 
-🧮 Basic Problems
+#### 🔹 Problems on Loops
 
-🧱 Pattern Printing
+- 🧮 Basic Problems
+- 🧱 Pattern Printing
+- 🔢 Number Pattern Printing
 
-🔢 Number Pattern Printing
+#### 🔹 Basic Data Structures
 
-🔠 Alphabet Pattern
+- 📊 Arrays
 
-🔹 Basic Data Structures
+#### 🔠 Alphabet Pattern
 
-📊 Arrays
+## 🛠️ Requirements
 
-🛠️ Requirements
+- ☕ Java JDK 8 or higher
+- 💻 Any IDE (IntelliJ IDEA / VS Code / Eclipse)
 
-☕ Java JDK 8 or higher
+## 🏃‍♂️ How to Run
 
-💻 Any IDE (IntelliJ IDEA / VS Code / Eclipse)
+1. Clone the repository:
 
-🏃‍♂️ How to Run
+   ```
+   git clone https://github.com/Intiyaj-Raj/Java-DSA.git
+   ```
 
-Clone the repository:
+2. Open the project in your preferred IDE.
 
-git clone https://github.com/Intiyaj-Raj/Java-DSA.git
+3. Run any Java file from the src/ folder to view the output.
 
+## 🔮 Future Topics (Coming Soon)
 
-Open the project in your preferred IDE.
+- 🧱 Linked List
+- 🧰 Stack
+- 📥 Queue
+- 🌳 Tree
+- 🔍 Searching & Sorting Algorithms
+- ⚡ Recursion Problems
 
-Run any Java file from the src/ folder to view the output.
-
-🔮 Future Topics (Coming Soon)
-
-🧱 Linked List
-
-🧰 Stack
-
-📥 Queue
-
-🌳 Tree
-
-🔍 Searching & Sorting Algorithms
-
-⚡ Recursion Problems
-
-💬 Contributing
+## 💬 Contributing
 
 Pull requests are welcome! If you’d like to contribute, please fork the repo and make a PR.
 
-⭐ Support
+## ⭐ Support
 
 If you find this repository helpful, give it a star 🌟 — it motivates me to keep adding more DSA problems!
 
-👨‍💻 Author: Intiyaj Raj
+## 👨‍💻 Author: Intiyaj Raj
 
-📘 Language: Java
-📆 Goal: Mastering DSA through consistent coding practice
+## 📘 Language: Java
+
+## 📆 Goal: Mastering DSA through consistent coding practice
