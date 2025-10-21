@@ -27,20 +27,6 @@ It includes basic problems, pattern printing, and fundamental data structure imp
     └── 📊 Arrays.java
 ```
 
-### 🧠 Topics
-
-#### 🔹 Problems on Loops
-
-- 🧮 Basic Problems
-- 🧱 Pattern Printing
-- 🔢 Number Pattern Printing
-
-#### 🔹 Basic Data Structures
-
-- 📊 Arrays
-
-#### 🔠 Alphabet Pattern
-
 ## 🛠️ Requirements
 
 - ☕ Java JDK 8 or higher
