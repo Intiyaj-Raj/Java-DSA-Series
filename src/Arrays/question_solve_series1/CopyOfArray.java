@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.question_solve_series1;
 
 import java.util.Arrays;
 
@@ -48,7 +48,13 @@ public class CopyOfArray {
         printArray(arr);
         System.out.println("copied arr2 after changing arr2");
         printArray(arr2);
-
+//        0 is included and arr.length is
+//        excluded
+//        int [] arr2 = Arrays.copyOfRange(arr,0,arr.length);
+//        int [] arr3 = Arrays.copyOfRange(arr,0,arr.length);
+        int [] arr3 = Arrays.copyOfRange(arr,0,2);
+        System.out.println("copy of Range arr (arr3)");
+        printArray(arr3);
 //        changeArray(arr);
 //        printArray(arr);
     }

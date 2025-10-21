@@ -1,6 +1,6 @@
 package loopProblem;
 
-public class NestedLoopProblem {
+public class StarPatternProblem {
     public void rectangle(){
         /*
             * * * * * *
@@ -101,7 +101,7 @@ public class NestedLoopProblem {
         }
     }
     public static void main(String[] args) {
-        NestedLoopProblem ob = new NestedLoopProblem();
+        StarPatternProblem ob = new StarPatternProblem();
         ob.rectangle();
         ob.hollowRect();
         ob.triangle();
