@@ -1,4 +1,4 @@
-package loopProblem.alphabetPattern;
+package loop_Problem.alphabetPattern;
 
 public class PatternA {
 

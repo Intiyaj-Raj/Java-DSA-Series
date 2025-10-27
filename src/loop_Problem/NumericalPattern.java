@@ -1,4 +1,4 @@
-package loopProblem;
+package loop_Problem;
 /*
            1234567
            2345671

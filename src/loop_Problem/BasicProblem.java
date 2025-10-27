@@ -1,4 +1,4 @@
-package loopProblem;
+package loop_Problem;
 
 public class BasicProblem {
     public void sumOFNatural(){
