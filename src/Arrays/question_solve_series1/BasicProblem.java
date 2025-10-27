@@ -41,7 +41,7 @@ public class BasicProblem {
             * i = 0;
             * arr[0] < arr[-1]
             * so we check 2 element not first element
-            * */
+            **/
             if (arr[i]<arr[i-1]){
                 // not sorted
                 check = false;

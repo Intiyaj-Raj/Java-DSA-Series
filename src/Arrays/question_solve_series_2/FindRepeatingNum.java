@@ -21,6 +21,7 @@ public class FindRepeatingNum {
     public static void main(String[] args) {
         int arr[] =  {1,2,3,4,3,2,1};
         int arr2[] =  {1,2,3,4};
+        System.out.println("if our output is -1 then  no repeating number in an array");
         System.out.println("Repeating Number: "+FirstRepeatingNum(arr));
         System.out.println("Repeating Number: "+FirstRepeatingNum(arr2));
     }
