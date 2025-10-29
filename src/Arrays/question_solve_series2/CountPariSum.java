@@ -1,4 +1,4 @@
-package Arrays.question_solve_series_2;
+package Arrays.question_solve_series2;
 
 import java.util.Scanner;
 

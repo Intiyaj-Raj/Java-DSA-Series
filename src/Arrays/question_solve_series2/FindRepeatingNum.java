@@ -1,4 +1,4 @@
-package Arrays.question_solve_series_2;
+package Arrays.question_solve_series2;
 
 /*
 *   Given an array 'a' consisting  of integers.Return the first value that is repeating in this array. if no value is beign repeated return -1

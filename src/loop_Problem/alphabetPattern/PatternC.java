@@ -9,6 +9,9 @@ public class PatternC {
                 if (i==0||i==n-1 || j==0) {
                     System.out.print("*");
                 }
+                else {
+                    System.out.print(" ");
+                }
             }
             System.out.println();
         }

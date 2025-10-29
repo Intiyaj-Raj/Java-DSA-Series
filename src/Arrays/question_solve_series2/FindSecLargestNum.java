@@ -1,4 +1,4 @@
-package Arrays.question_solve_series_2;
+package Arrays.question_solve_series2;
 
 /*
  *       Find the second largest element in the given Array
