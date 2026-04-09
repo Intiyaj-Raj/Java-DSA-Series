@@ -24,5 +24,17 @@ public class checkPositiveNegative {
         } else {
             System.out.println("You don't have a fever.");
         }
+
+
+//        question 3
+
+        int a = 63;
+        int b = 36;
+
+        boolean x = (a < b) ? true : false;
+        System.out.println("value of x = " + x);
+
+        int y = (a > b) ? a : b;
+        System.out.println("value of y = " + y);
     }
 }
