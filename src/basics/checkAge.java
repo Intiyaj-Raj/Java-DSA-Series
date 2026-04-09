@@ -4,9 +4,10 @@ import java.util.Scanner;
 
 public class checkAge {
     public static void main(String[] args) {
-        System.out.println("Enter your age: ");
+
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Enter your age: ");
         int age = sc.nextInt();
 
         if (age>0 && age<=5){
