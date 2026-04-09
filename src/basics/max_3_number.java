@@ -25,5 +25,22 @@ public class max_3_number {
         else{
             System.out.println("all numbers are equal");
         }
+
+
+//        another logic
+
+
+        int a =11;
+        int b = 11;
+        int c = 11;
+
+        if ((a>=b) && (a>=c)){
+            System.out.println("Largest is A.");
+        } else if (b>=c) {
+            System.out.println("largest is B.");
+        }
+        else{
+            System.out.println("Largest is C.");
+        }
     }
 }
