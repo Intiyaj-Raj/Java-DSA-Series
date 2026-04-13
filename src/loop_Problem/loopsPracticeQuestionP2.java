@@ -16,13 +16,12 @@ public class loopsPracticeQuestionP2 {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
         int fact = 1;
-        if (n>=0){
-            for (int i =1;i<=n;i++){
-                fact = fact*i;
+        if (n >= 0) {
+            for (int i = 1; i <= n; i++) {
+                fact = fact * i;
             }
-            System.out.println("factorial of "+ n+ " = " + fact);
-        }
-        else{
+            System.out.println("factorial of " + n + " = " + fact);
+        } else {
             System.out.println("Enter a valid number");
         }
 
@@ -32,13 +31,18 @@ public class loopsPracticeQuestionP2 {
 
         System.out.println("enter multiplication number: ");
         int mulNum = sc.nextInt();
-        for (int i=1;i<=10;i++)
-        {
-            System.out.println(mulNum*i
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(mulNum * i
             );
         }
 
 
+//                Question 5 :
+//        What is wrong in the following program?
 
+        for (int i = 0; i <= 5; i++) {
+            System.out.println("i = " + i);
+        }
+//        System.out.println("i after the loop " + i);
     }
 }

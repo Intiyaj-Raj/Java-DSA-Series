@@ -50,9 +50,5 @@ public class loopsPracticeQuestion {
         System.out.println("even number sum " + evenSum);
         System.out.println("odd number sum " + oddSum);
 
-
-
-//                Question 5 :
-//        What is wrong in the following program?
     }
 }
