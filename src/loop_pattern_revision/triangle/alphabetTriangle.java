@@ -80,5 +80,65 @@ public class alphabetTriangle {
             }
             System.out.println();
         }
+
+        /*
+            1
+            A B
+            1 2 3
+            A B C D
+            1 2 3 4 5
+        * */
+        System.out.println();
+        System.out.println();
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                if (i % 2 != 0) {
+                    System.out.print(j + " ");
+                } else {
+                    System.out.print((char) (j + 64) + " ");
+                }
+
+            }
+            System.out.println();
+        }
+
+        /*
+                A A A A A
+                B B B B
+                C C C
+                D D
+                E
+        */
+
+        System.out.println();
+        System.out.println();
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n - i + 1; j++) {
+                System.out.print((char) (i + 64) + " ");
+            }
+            System.out.println();
+        }
+
+                /*
+
+                        A B C D E
+                        A B C D
+                        A B C
+                        A B
+                        A
+
+                */
+
+        System.out.println();
+        System.out.println();
+        for (int i=1;i<=n;i++){
+            for (int j=1;j<=n-i+1;j++){
+                System.out.print((char) (j+64)+" ");
+            }
+            System.out.println();
+        }
+
+
+
     }
 }
