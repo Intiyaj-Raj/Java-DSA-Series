@@ -39,5 +39,26 @@ public class StarPyramid {
             nst+=2;
             System.out.println();
         }
+
+
+//        method 3
+        System.out.println();
+        System.out.println();
+        int nsp = n-1; // number of spaces
+        nst = 1;
+        for (int i=1;i<=n;i++){
+            for (int j=1;j<=nsp;j++){
+                System.out.print("  ");
+            }
+            for (int j=1;j<=nst;j++){
+                System.out.print("* ");
+            }
+
+            nsp--;
+            nst+=2;
+            System.out.println();
+        }
+
     }
+
 }
