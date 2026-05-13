@@ -19,6 +19,7 @@ It includes basic problems, pattern printing, and fundamental data structure imp
 ├── 📘 ProblemsOnLoops
 │   ├── 🧮 BasicProblems.java
 │   ├── 🧱 PatternPrinting.java
+|   ├── 🧱 Advance PatternPrinting.java
 │   └── 🔢 NumberPatternPrinting.java
 │
 ├── 🔠 AlphabetPattern.java
